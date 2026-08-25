@@ -8,11 +8,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1400&color=67E8F9&center=true&vCenter=true&width=760&lines=Designing+production-grade+ML+%26+LLM+systems;LLMs+%C2%B7+RAG+%C2%B7+ML+Pipelines+%C2%B7+MLOps;Shipping+one+solid+pipeline%2C+not+fifty+notebooks." />
 
-[![Email](https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=3B82F6)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=22D3EE)](vamshibandari20@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=3B82F6)](www.linkedin.com/in/vamshi-bandari-04473333a)
 [![GitHub](https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=A855F7)](https://github.com/vamshi6655)
 
-📍 Your City, Country
+📍 Hyderabad, India 
 
 </div>
 
@@ -29,7 +29,7 @@ I'd rather ship one pipeline deep enough to survive real data and real traffic t
 | **Role** | Data Scientist · ML Engineer |
 | **Focus** | LLMs, RAG systems, ML pipelines |
 | **Based in** | Your City, Country |
-| **Currently building** | *(add your current project here)* |
+| **Currently building** | *(Customer Churn Prediction)* |
 
 <br>
 
