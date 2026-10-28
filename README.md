@@ -29,7 +29,7 @@ I'd rather ship one pipeline deep enough to survive real data and real traffic t
 | **Role** | Data Scientist · ML Engineer |
 | **Focus** | LLMs, RAG systems, ML pipelines |
 | **Based in** | Your City, Country |
-| **Currently building** | *(Customer Churn Prediction)* |
+| **Currently building** | *(Rice Leaf Disease Detection Using Deep Learning)* |
 
 <br>
 
